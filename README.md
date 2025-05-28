@@ -1,2 +1,2 @@
 # WindowsPS_TeamsAddinForOutlook
-I noticed when installing the NEW Teams Software using their new bootstrapper installers that the Teams Outlook Addin wouldn't always install. This was my solution for getting it to install consistently after new installs and upgrades.
+I noticed when installing the NEW Teams Software using their new bootstrapper installers that the Teams Outlook Addin wouldn't always install. This was my solution for getting it to install consistently after new installs and upgrades. You can execute it dynamically using Group Policy as a logon script or via Group Policy and Task Scheduler to get it to run after launching or exiting Teams/Outlook.
